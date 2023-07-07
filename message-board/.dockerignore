@@ -1,0 +1,6 @@
+.env
+fly.toml
+.git/
+*.sqlite3
+*.pyc
+__pycache__/
