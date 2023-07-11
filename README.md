@@ -29,7 +29,7 @@ The following web apps have been studied in relationship to Django and are inclu
     - [ ] Authentication
     - [ ] Viewsets and Routers
     - [ ] API Schemas and Documentation
-- [x] Bookstore (Production ready)
+- [ ] Bookstore (Production ready)
 
 
 ## Thank You
