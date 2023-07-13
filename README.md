@@ -15,7 +15,7 @@ In order to provide with a great learning experience each example follow these s
 The following web apps have been studied in relationship to Django and are included in this repo.
 - [x] Blog (Basic CRUD)
 - [ ] Newspaper site
-    - [ ] Custom User Model
+    - [x] Custom User Model
     - [ ] User Authentication
     - [ ] Email Config
     - [ ] Security
