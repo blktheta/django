@@ -16,7 +16,8 @@ The following web apps have been studied in relationship to Django and are inclu
 - [x] Blog (Basic CRUD)
 - [ ] Newspaper site
     - [x] Custom User Model
-    - [ ] User Authentication
+    - [x] User Authentication
+    - [ ] Bootstrap
     - [ ] Email Config
     - [ ] Security
 - [ ] Library book website
