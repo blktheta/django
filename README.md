@@ -18,7 +18,7 @@ The following web apps have been studied in relationship to Django and are inclu
     - [x] Custom User Model
     - [x] User Authentication
     - [x] Bootstrap
-    - [ ] Email Config
+    - [x] Email Config w/ SendGrid
     - [ ] Security
 - [ ] Library book website
     - [ ] REST framework
